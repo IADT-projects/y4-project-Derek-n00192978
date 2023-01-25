@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8884928&assignment_repo_type=AssignmentRepo)
 ## project_y4 repo
 
-this is a blank starter repository for the DL836 y4 project.
+This is the Githun repository for Derek Reid's fourth Year Major Project
 
 Please note:
 
